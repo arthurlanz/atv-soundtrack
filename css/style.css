@@ -149,7 +149,7 @@ section.browse div ul li p.ttl {
  footer nav ul {
 	display: flex;
 	justify-content: center;
-	margin: 0 0 1.5vw;
+	margin: 1vw 0 1.5vw;
 
  }
  footer nav ul li {
