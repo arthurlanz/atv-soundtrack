@@ -138,3 +138,20 @@ section.browse div {
 section.browse div ul li p.ttl {
 	font-size: 1.6rem;
 }
+/*============================================
+				footer
+============================================
+*/
+ footer {
+	text-align: center;
+	font-size: small;
+ }
+ footer nav ul {
+	display: flex;
+	justify-content: center;
+	margin: 0 0 1.5vw;
+
+ }
+ footer nav ul li {
+	margin: 0 1vw;
+ }
